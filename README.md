@@ -3,7 +3,8 @@
 <div align="center">
   
 ![phy122's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phy122&show_icons=true&theme=highcontrast)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phy122&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phy122&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
