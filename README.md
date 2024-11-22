@@ -1,4 +1,13 @@
-## Hi there 👋
+<h2 align="center"></h2><br/>
+
+<div align="center">
+  
+![phy122's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phy122&show_icons=true&theme=highcontrast)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phy122&layout=compact)
+
+</div>
+
+<hr>
 
 <!--
 **phy122/phy122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
